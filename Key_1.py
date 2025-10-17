@@ -9,7 +9,7 @@ import time
 #
 import driver
 import requests
-import selenium
+
 
 
 #
